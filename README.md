@@ -1,4 +1,4 @@
-# H5 + Spring Boot Starter
+# h5_practice_pro
 
 这是一个面向移动端网页项目的前后端分离脚手架骨架：
 
@@ -9,8 +9,8 @@
 
 ```bash
 cd /Users/oonm/newaiprogram/h5-web
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 
 ## 后端启动
