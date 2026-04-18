@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: server-api
+  profiles:
+    active: dev
+
+server:
+  port: 8080
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
